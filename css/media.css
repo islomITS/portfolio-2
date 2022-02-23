@@ -1,0 +1,693 @@
+@media(max-width:1760px) {
+    .header-nev-control {
+        left: 300px;
+        right: 300px;
+    }
+
+    .header-nev-control nav {
+        width: 100%;
+    }
+}
+
+@media(max-width:1660px) {
+    .header-nev-control {
+        left: 250px;
+        right: 250px;
+    }
+}
+
+@media(max-width:1560px) {
+    .header-nev-control {
+        left: 150px;
+        right: 150px;
+    }
+}
+
+@media(max-width:1417px) {
+    .about-right-contol p {
+        font-size: 14px;
+        margin-top: 0;
+    }
+
+    .myskills {
+        font-size: 32px !important;
+    }
+
+    .about-left-contol h1 {
+        font-size: 32px;
+    }
+
+    .about-left-contol h2 {
+        font-size: 15px;
+    }
+
+    .about-left-contol p {
+        font-size: 15px;
+        margin-top: 14px;
+    }
+}
+
+@media(max-width:1320px) {
+    .header-nev-control {
+        position: fixed;
+        top: 20px;
+        left: 100px;
+        right: 100px;
+    }
+}
+@media(max-width:1297px){
+
+    .send-btn {
+        width: 340px;
+    }
+    .contact-left-control form input,.contact-left-control form textarea,.send-btn  {
+        font-size: 16px;
+    }    
+}
+@media(max-width:1268px) {
+    .about-right-contol p br {
+        display: block;
+    }
+
+    .about-right-contol p {
+        font-size: 16px;
+    }
+}
+
+@media(max-width:1240px) {
+    .header-nev-control {
+        left: 100px;
+        right: 100px;
+    }
+}
+
+@media(max-width:1225px) {
+    .header-right-box h1 {
+        font-size: 34px;
+    }
+
+    .design-box:nth-child(4) p {
+        font-size: 16px;
+    }
+
+    .design-box:nth-child(3) p,
+    .design-box:nth-child(2) p,
+    .design-box:first-child p {
+        font-size: 16px;
+    }
+
+    .design-box:nth-child(4) h1 {
+        font-size: 22px;
+        margin-top: 26px;
+    }
+
+    .design-box:nth-child(3) h1,
+    .design-box:nth-child(2) h1,
+    .design-box:first-child h1 {
+        font-size: 22px;
+        margin-top: 26px;
+    }
+
+    .experiences-right-top h1,
+    .education-right-top h1 {
+        font-size: 32px;
+    }
+
+    .experiences-right-top p,
+    .education-right-top p {
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    .experiences-right-center h1,
+    .experiences-right-bottom h1,
+    .education-right-center-box h1 {
+        font-size: 22px;
+    }
+
+    .experiences-right-center p,
+    .experiences-right-bottom p,
+    .education-right-center-box p {
+        font-size: 14px;
+    }
+
+    .experiences-right-center,
+    .experiences-right-bottom,
+    .education-right-center,
+    .education-right-bottom {
+        width: 460px;
+    }
+
+
+}
+
+@media(max-width:1168px) {
+    .header-right-box h1 {
+        font-size: 32px;
+    }
+}
+
+@media(max-width:1111px) {
+    .header-right-box h1 {
+        font-size: 30px;
+    }
+
+    .design-box:nth-child(4) p {
+        font-size: 15px;
+    }
+
+    .design-box:nth-child(3) p,
+    .design-box:nth-child(2) p,
+    .design-box:first-child p {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:1076px) {
+    .header-nev-control {
+        left: 70px;
+        right: 70px;
+    }
+}
+
+@media(max-width:1053px) {
+    .header-right-box h1 {
+        font-size: 28px;
+    }
+        .experiences-right-center,
+    .experiences-right-bottom,
+    .education-right-center,
+    .education-right-bottom {
+        width: 454px;
+    }
+}
+@media(max-width:1038px){
+    .contact-right-top h1 ,.contact-right-bottom h1 {
+        font-size: 28px;
+    }.contact-right-top p {
+        margin-top: 4px;
+    }.contact-right-bottom-box p {
+        margin-left: 12px;}.send-btn {
+            width: 280px;
+        }.contact-left-control h1 {
+            font-size: 32px;}
+}
+@media(max-width:1022px) {
+    .about-right-contol p br {
+        display: none;
+    }
+
+    .testimonal-block h1 {
+        font-size: 32px;
+        margin-top: 23px;
+    }
+
+    .testimonal-block p {
+        margin-top: 16px;
+    }
+}
+
+@media(max-width:996px) {
+    .header-right-box h1 {
+        font-size: 26px;
+    }
+
+    .header-right-box h2 {
+        font-size: 15px;
+        margin-top: 7px;
+    }
+
+    .header-right-box button {
+        width: 175px;
+        height: 45px;
+        font-size: 15px;
+        margin-top: 36px;
+    }
+}
+
+@media(max-width:991px) {
+    .about-left {
+        width: 100%;
+    }
+
+    .about-center-box {
+        width: 50%;
+    }
+
+    .about-right-box {
+        width: 50%;
+    }
+
+    .about {
+        flex-wrap: wrap !important;
+        height: auto;
+    }
+
+    .design-box:nth-child(3),
+    .design-box:nth-child(2),
+    .design-box:first-child,
+    .design-box:nth-child(4) {
+        width: 50%;
+    }
+
+    .design {
+        flex-wrap: wrap;
+        height: auto;
+    }
+    .contact {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .contact-left {
+        width: 100%;
+        height: auto;
+    }
+
+    .contact-center {
+        width: 50%;
+    }
+
+    .contact-right {
+        width: 50%;
+    }
+
+    .design-box:nth-child(3),
+    .design-box:nth-child(2),
+    .design-box:first-child,
+    .design-box:nth-child(4) {
+        min-height: 240px;
+    }
+
+    .experiences-right-center-box p br,
+    .education-right-center-box p br {
+        display: block;
+    }
+
+    .experiences-right-center,
+    .education-right-center {
+        width: 414px;
+    }
+
+    .experiences-right-bottom,
+    .education-right-bottom {
+        width: 383px;
+    }
+
+}
+
+@media(max-width:938px) {
+    .header-right-box {
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    .experiences-right-center-box h1 br,
+    .education-right-center-box h1 br {
+        display: block;
+    }
+
+    .experiences-right,
+    .experiences-left {
+        height: auto;
+    }
+
+    .experiences-right-center,
+    .education-right-center {
+        width: 367px;
+    }
+
+    .experiences-right-bottom,
+    .education-right-bottom {
+        width: 371px;
+    }
+
+    .experiences,
+    .education,.education {
+        height: auto;
+    }
+
+    .education-right {
+        height: auto;
+    }
+}
+
+@media(max-width:926px) {
+    .header-right-box h1 {
+        font-size: 25px;
+    }
+
+    .header-nav-icon a {
+        font-size: 26px;
+    }
+
+    .header-nav nav ul li a {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:915px) {
+    .header-nev-control {
+        left: 50px;
+        right: 50px;
+    }
+}
+
+@media(max-width:898px) {
+    .header-right-box {
+        padding-left: 28px;
+    }
+}
+
+@media(max-width:864px) {
+    .header-right-box h1 br {
+        display: block;
+    }
+
+    .experiences-right-center,
+    .education-right-center {
+        width: 350px;
+    }
+
+    .experiences-right-bottom,
+    .education-right-bottom {
+        width: 356px;
+    }
+}
+
+@media(max-width:800px) {
+    .header-nav-p ul {
+        flex-direction: column;
+    }
+
+    #home {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .header-left-block {
+        width: 100%;
+
+    }
+
+    .header-right-block {
+        height: auto;
+        width: 100%;
+    }
+
+    .header-nav {
+        height: 59px;
+    }
+
+    .header-nav-p {
+        position: absolute;
+        top: 55px;
+        left: 0;
+        width: 100% !important;
+        background: rgb(255, 255, 255);
+        padding-left: 28px;
+        height: 0;
+        display: none;
+        transition: 1s;
+    }
+
+    .header-nav .fa-bars {
+        font-size: 34px;
+    }
+
+    .header-nav-p ul li {
+        margin-top: 18px;
+        margin-bottom: 18px;
+    }
+
+    .header-nev-control {
+        left: 0px;
+        right: 0px;
+        z-index: 2;
+        background: red;
+        top: 0;
+        background: #fff;
+    }
+
+    .header-menu-icon {
+        display: block;
+    }
+
+    .header-nav nav {
+        padding-left: 28px;
+        padding-right: 28px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        background: var(--header-nav-menu-bg);
+    }
+
+    .header-menu-icon span {
+        width: 100px;
+        height: 5px;
+        background: red;
+
+    }
+
+    .header-nav-p.active {
+        height: auto;
+        display: block;
+        transition: 1s !important;
+        background: var(--header-menu-bg);
+    }
+
+    .design-box:first-child {
+        width: 50%;
+        height: auto;
+    }
+
+    .design-box:nth-child(2) {
+        width: 50%;
+        height: auto;
+    }
+
+    .design-box:nth-child(3) {
+        width: 50%;
+        height: auto;
+    }
+
+    .design-box:nth-child(4) {
+        width: 50%;
+        height: auto;
+    }
+
+    .about-center-box {
+        width: 100%;
+        height: auto;
+    }
+
+    .about-right-box,
+    .about-right-contol {
+        width: 100%;
+    }
+
+    #about {
+        height: auto;
+    }
+
+    .experiences-left,
+    .experiences-right,
+    .education-left,
+    .education-right {
+        width: 100%;
+    }
+
+    .experiences-right-center h1 br,
+    .experiences-right-bottom h1 br {
+        display: none;
+    }
+
+    .experiences-right-center p br,
+    .experiences-right-bottom p br,
+    .education-right-center-box h1 br,
+    .education-right-center-box p br {
+        display: none;
+    }
+
+    .experiences-right-center,
+    .experiences-right-bottom,
+    .education-right-center,
+    .education-right-bottom {
+        width: 482px;
+    }
+
+    .experiences,
+    .education,.education {
+        height: auto;
+    }
+
+    .education-left,
+    .education-right {
+        height: auto;
+    }
+
+    .education-left {
+        border-top: 2px solid rgb(195, 162, 13);
+    }
+
+    .testimonal-block h1 {
+        font-size: 24px;
+        margin-top: 18px;
+    }
+
+    .testimonal-block p {
+        margin-top: 10px;
+    }
+.contact{
+    height: auto;
+}
+    .contact-center,.contact-right {
+        width: 100%;
+    }
+    .contact-right{
+        height: auto;
+    }
+    .contact-center {
+    height: auto;
+    }
+    
+}
+
+@media(max-width:726px) {
+
+    .testimonal-block h1 br,
+    .testimonal-block p br {
+        display: block;
+    }
+}
+
+@media(max-width:568px) {
+
+    .testimonal-block h1 br,
+    .testimonal-block p br {
+        display: none;
+    }
+
+    .testimonal {
+        padding: 0 70px;
+    }
+}
+
+@media(max-width:546px) {
+    .header-right-box h1 br {
+        display: none;
+    }
+
+    .header-right-box h1 {
+        margin-top: 0px;
+    }
+}
+
+@media(max-width:530px) {
+
+    .design-box:nth-child(3),
+    .design-box:nth-child(2),
+    .design-box:first-child,
+    .design-box:nth-child(4) {
+        width: 100%;
+    }
+
+    .design {
+        height: auto;
+    }
+
+    .experiences-right-center,
+    .experiences-right-bottom,
+    .education-right-center,
+    .education-right-bottom {
+        width: 457px;
+    }
+.footer-top h1 br{
+    display: block;
+}
+.footer-bottom,.footer-top {
+    width: 320px;
+}
+}
+
+
+@media(max-width:500px) {
+    .mode {
+        bottom: 40px;
+        left: 40px;
+    }
+
+    .experiences-right-center,
+    .experiences-right-bottom,
+    .education-right-center,
+    .education-right-bottom {
+        width: 440px;
+    }
+
+    .experiences-right,
+    .education-left {
+        padding: 22px 22px 22px 16px;
+    }
+}
+
+@media(max-width:464px) {
+
+    .experiences-right-center p br,
+    .experiences-right-bottom p br,
+    .education-right-center-box p br {
+        display: block;
+    }
+
+    .experiences-right-center,
+    .education-right-center {
+        width: 410px;
+    }
+
+    .experiences-right-bottom,
+    .education-right-bottom {
+        width: 380px;
+    }
+
+}
+
+@media(max-width:432px) {
+    .header-right-box {
+        padding-right: 28px;
+    }
+
+    .experiences-right-center h1 br,
+    .experiences-right-bottom h1 br,
+    .education-right-center-box h1 br {
+        display: block;
+    }
+
+    .experiences-right-center {
+        width: 379px;
+    }
+
+    .experiences-right-center,
+    .education-right-center {
+        width: 350px;
+    }
+
+    .experiences-right-bottom,
+    .education-right-bottom {
+        width: 350px;
+    }
+}
+
+@media(max-width:415px) {
+    .header-right-box h1 {
+        font-size: 24px;
+    }
+}
+
+@media(max-width:400px) {
+    .header-right-box {
+        padding-left: 26px;
+        padding-right: 26px;
+    }
+
+    .header-nav-p {
+        top: 54px;
+    }
+}
